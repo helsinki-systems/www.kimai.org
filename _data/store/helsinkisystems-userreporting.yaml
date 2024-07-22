@@ -1,0 +1,11 @@
+developer: helsinkisystems
+icon: fas fa-file-invoice
+demo: false
+subscription: 149.99 €
+lemonsqueezy: "https://helsinkisystems.lemonsqueezy.com/buy/2ee10f97-aefd-4e52-a26d-3417dc82698c"
+bundle:
+    name: "UserReporting"
+    purchase: true
+    versions:
+        - [ "1.0", "2.0", "2.17.0" ]
+
