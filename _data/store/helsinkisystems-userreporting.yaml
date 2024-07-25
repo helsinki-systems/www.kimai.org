@@ -8,4 +8,7 @@ bundle:
     purchase: true
     versions:
         - [ "1.0", "2.0", "2.17.0" ]
-
+screenshots:
+    - helsinkisystems-userreporting-bundle0
+    - helsinkisystems-userreporting-bundle1
+    - helsinkisystems-userreporting-bundle2

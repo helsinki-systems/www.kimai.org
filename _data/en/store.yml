@@ -144,6 +144,14 @@ screenshots:
         description: Simple list-view for all your timesheet records
     cloudrizon-kimai-mobile-app-android2:
         description: Allows configuring and switching between multiple Kimai instances
+    
+    helsinkisystems-userreporting-bundle0:
+        description: "Overview of different activities' and their durations"
+    helsinkisystems-userreporting-bundle1:
+        description: "Overview of unbillable/internal and billable/external projects"
+    helsinkisystems-userreporting-bundle2:
+        description: "Overview of customers and highlights suspicious timesheets"
+    
     katjaglass-approval-bundle0:
         description: Displays week details like working time, expected time and actions like submit for approval
     katjaglass-approval-bundle1:

@@ -34,6 +34,14 @@ cloudrizon-kimai-mobile-app-ios7:
     src: "/images/marketplace/cloudrizon-kimai-mobile-ios-calendar.webp"
 cloudrizon-kimai-mobile-app-ios8:
     src: "/images/marketplace/cloudrizon-kimai-mobile-ios-reminder.webp"
+
+helsinkisystems-userreporting-bundle0:
+    src: "/images/marketplace/helsinkisystems-userreporting0.png"
+helsinkisystems-userreporting-bundle1:
+    src: "/images/marketplace/helsinkisystems-userreporting1.png"
+helsinkisystems-userreporting-bundle2:
+    src: "/images/marketplace/helsinkisystems-userreporting2.png"
+
 katjaglass-approval-bundle0:
     src: "https://raw.githubusercontent.com/KatjaGlassConsulting/ApprovalBundle/0.9.1/_documentation/Screenshot_UserApprovalForWeek.png"
 katjaglass-approval-bundle1:

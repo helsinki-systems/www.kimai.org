@@ -146,6 +146,14 @@ screenshots:
         description: Einfache Listenansicht für alle Ihre Stundenzettel
     cloudrizon-kimai-mobile-app-android2:
         description: Ermöglicht das Umschalten zwischen mehreren Kimai-Instanzen
+
+    helsinkisystems-userreporting-bundle0:
+        description: "Übersicht über verschiedene Aktivitäten und deren Dauer"
+    helsinkisystems-userreporting-bundle1:
+        description: "Übersicht über unberechenbare/interne und berechenbare/externe Projekte"
+    helsinkisystems-userreporting-bundle2:
+        description: "Übersicht über Kunden und Hervorhebung verdächtiger Zeiterfassungen"
+    
     katjaglass-approval-bundle0:
         description: Anzeige von Wochendetails wie Arbeitszeit und erwartete Zeit und erlaubt es Zeiten zur Genehmigung einzureichen
     katjaglass-approval-bundle1:

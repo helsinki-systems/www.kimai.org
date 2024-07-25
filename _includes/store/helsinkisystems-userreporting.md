@@ -14,4 +14,3 @@ php bin/console kimai:bundle:userreporting:monthlyreminder
 ## Support
 
 If you need help setting this plugin up or have any feature requests our commercial support is available at [kunden@helsinki-systems.de](mailto:kunden@helsinki-systems.de)
-
